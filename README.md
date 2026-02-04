@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**ajitkosuru/ajitkosuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ajit, a data & analytics enthusiast with a strong interest in turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+I enjoy working on real-world datasets, building dashboards, and writing clean, efficient SQL to answer business questions. This GitHub is a collection of my projects, experiments, and learning journey as I grow in the analytics space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything here is built by me — focused on clarity, practicality, and impact.
+
+### 🛠️ Tools & Skills
+- SQL (PostgreSQL, MySQL)
+- Excel (Data cleaning, analysis, KPIs)
+- Tableau / Power BI
+- Python (Basics for data analysis)
+- Data visualization & storytelling
+
+### 📌 What I’m Working On
+- Analytics projects using realistic business datasets  
+- Improving dashboard design and insight communication  
+- Strengthening problem-solving through SQL case studies  
+
+### 👤 A Bit About Me
+- Curious and detail-oriented  
+- Prefer simple, clean, and easy-to-understand solutions  
+- Believe good data tells a clear story 
